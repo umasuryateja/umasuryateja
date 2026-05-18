@@ -3,8 +3,6 @@
 
 - 👯My project [Hybrid-Deep-Learning-Based-System-for-Real-Time-Misinformation-and-Crime-Detection](https://github.com/umasuryateja/-Hybrid-Deep-Learning-Based-System-for-Real-Time-Misinformation-and-Crime-Detection-)
 
-- 🤝 My project [React_ecommerce](https://github.com/umasuryateja/React_ecommerce)
-
 - 📫 How to reach me **jakkateja03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
