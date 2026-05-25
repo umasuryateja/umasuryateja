@@ -84,12 +84,3 @@ AI/ML Engineer | GenAI | NLP | LLMs | Python | SQL | Data Engineering | Data Ana
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umasuryateja&show_icons=true&theme=tokyonight" alt="stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umasuryateja&theme=tokyonight" alt="streak" />
-
-</p>
