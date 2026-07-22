@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm JAKKA UMA SURYA TEJA</h1>
 
 <h3 align="center">
-AI/ML Engineer | GenAI | NLP | LLMs | Python | SQL | Data Engineering | Data Analytics
+AI Engineer | GenAI | LLMs | RAG | NLP | Python | SQL | Data Engineering | Data Analytics
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 CSM’25 Graduate from Raghu Engineering College
-- 🤖 Passionate about AI/ML, Generative AI, NLP, and Data Engineering
-- 🧠 Building intelligent AI-powered applications using Python, Deep Learning, and RAG systems
-- 📊 Interested in AI Engineer, ML Engineer, GenAI, and Data roles
+- 🎓 CSM'25 Graduate from Raghu Engineering College
+- 🤖 Passionate about Artificial Intelligence, Generative AI, Document AI, NLP, and Data Engineering
+- 🧠 Building production-grade AI applications using LLMs, Google Gemini, OCR, RAG, and Machine Learning
+- 📊 Interested in AI Engineer, GenAI Engineer, ML Engineer, Python Developer, and Data roles
 
 ---
 
@@ -39,39 +39,61 @@ AI/ML Engineer | GenAI | NLP | LLMs | Python | SQL | Data Engineering | Data Ana
 
 ---
 
-## 💡 Featured Projects
+# 💡 Featured Projects
 
-### 🔹 AI Database Assistant using RAG & LLMs
-- Built a conversational AI assistant that converts natural language into SQL queries using LLMs and RAG pipelines.
-- Tech Stack: Python, LangChain, Gemini API, SQL, Streamlit, MySQL
+## 🛡️ ClaimPilot AI | Autonomous Insurance Claims Ingestion & Routing Agent
 
-### 🔹 ResumeAI Pro | AI-Powered ATS Resume Analyzer
-- Developed an ATS resume analysis platform with role prediction, semantic skill matching, and JD similarity scoring.
-- Tech Stack: Python, NLP, TF-IDF, Naive Bayes, Streamlit, Plotly
+- Built a production-grade Document AI application that automates insurance claim ingestion, OCR-based document processing, structured field extraction, validation, and intelligent claim routing.
+- Leveraged Google Gemini, Pydantic, and a priority-based rule engine to generate structured JSON outputs through an interactive Streamlit dashboard.
+- Included built-in sample claim documents for instant testing and a fully deployed live application.
 
-### 🔹 Hybrid Deep Learning System for Misinformation Detection
-- Designed a multi-modal deep learning system using BERT, CNN, and LSTM for misinformation detection.
-- Tech Stack: Python, TensorFlow, OpenCV, NLP, Deep Learning
+**Tech Stack:** Python • Google Gemini API • Streamlit • OCR • Pydantic • Document AI • Prompt Engineering • Rule Engine • JSON Extraction • Render
 
 ---
 
-## 🛠️ Languages and Tools
+## 🚀 PMO Cockpit Pro | ProjectPulse AI
+
+- Developed an AI-powered enterprise project management platform featuring project health scoring, milestone tracking, AI-generated insights, and stakeholder reporting.
+- Built a scalable full-stack application with secure REST APIs and modern UI.
+
+**Tech Stack:** React.js • TypeScript • Vite • Tailwind CSS • Node.js • Express.js • PostgreSQL • Supabase • Gemini AI • REST APIs
+
+---
+
+## 📄 ResumeAI Pro | AI-Powered ATS Resume Analyzer
+
+- Built an intelligent ATS Resume Analyzer that predicts job roles, calculates ATS compatibility, performs semantic resume matching, and identifies missing skills using NLP and Machine Learning.
+- Designed an interactive analytics dashboard with personalized resume improvement recommendations.
+
+**Tech Stack:** Python • Streamlit • Scikit-learn • TF-IDF • Naive Bayes • NLP • Pandas • Plotly • PDF Processing
+
+---
+
+## 🛡️ Hybrid Deep Learning System for Misinformation Detection
+
+- Developed a hybrid deep learning architecture combining BERT, CNN, and LSTM to detect misinformation in social media content with improved contextual understanding and classification accuracy.
+
+**Tech Stack:** Python • BERT • CNN • LSTM • PyTorch • Hugging Face • Deep Learning
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 
 </p>
 
@@ -79,8 +101,12 @@ AI/ML Engineer | GenAI | NLP | LLMs | Python | SQL | Data Engineering | Data Ana
 
 ## 📫 Contact Me
 
-- 📧 Email: **jakkateja03@gmail.com**
-- 📍 Location: **Hyderabad, India**
+📧 **Email:** jakkateja03@gmail.com
 
----
+📍 **Location:** Hyderabad, India
 
+🌐 **Portfolio:** https://surya-teja-portfolio-dun.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/umasuryateja/
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
