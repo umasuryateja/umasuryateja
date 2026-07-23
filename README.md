@@ -11,7 +11,7 @@ AI Engineer | GenAI | LLMs | RAG | NLP | Python | SQL | Data Engineering | Data 
 - 🎓 CSM'25 Graduate from Raghu Engineering College
 - 🤖 Passionate about Artificial Intelligence, Generative AI, Document AI, NLP, and Data Engineering
 - 🧠 Building production-grade AI applications using LLMs, Google Gemini, OCR, RAG, and Machine Learning
-- 📊 Interested in AI Engineer, GenAI Engineer, ML Engineer, Python Developer, and Data roles
+- 📊 Interested in AI Engineer, GenAI Engineer, ML Engineer, Python Developer, and Data roles.
 
 ---
 
