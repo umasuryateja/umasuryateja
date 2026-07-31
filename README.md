@@ -73,7 +73,7 @@ AI Engineer | GenAI | LLMs | RAG | NLP | Python | SQL | Data Engineering | Data 
 
 - Developed a hybrid deep learning architecture combining BERT, CNN, and LSTM to detect misinformation in social media content with improved contextual understanding and classification accuracy.
 
-**Tech Stack:** Python • BERT • CNN • LSTM • PyTorch • Hugging Face • Deep Learning
+**Tech Stack:** Python • BERT • CNN • LSTM • PyTorch • Hugging Face • Deep Learning.
 
 ---
 
